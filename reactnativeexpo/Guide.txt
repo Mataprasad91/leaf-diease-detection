@@ -1,0 +1,18 @@
+Your Virtual Machine Information ################################
+******* Public IP:-http://20.198.84.13/****************
+1. Running on azure using the credits
+2. Username: agripreneurs
+3. Password: agri@1234567
+
+Your MonogoDB Collection ########################################
+
+1. Created new user name flask-db with the password:- agri1234567
+2. MonogoDB is currently storing the Image data in base64 string and each row 
+	is a heavy file
+3. In future please upgrade the MongoDB instance or delete the previous records
+
+
+Your Flask Backend ################################################
+1. Log in to your vm with above password and username 
+2. You can change the template of index page also
+3. Its is currently  in flaskapp folder in your vm at home
